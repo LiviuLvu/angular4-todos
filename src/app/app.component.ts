@@ -25,7 +25,7 @@ export class AppComponent {
   }
 
   removeTodo(todo) {
-    this.todoDataService.toggleTodoComplete(todo);
+    this.todoDataService.deleteTodoById(todo.id);
   }
   
   get todos() {
