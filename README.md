@@ -1,5 +1,7 @@
 ## To do app following tutorial from Sitepoint  
-Completed up to part 2:  
-Refactored code to separate components for each feature.
+https://www.sitepoint.com/angular-2-tutorial/  
 
-https://www.sitepoint.com/angular-2-tutorial/
+Completed up part 3, not including testing.  
+Needs fix: 
+* update list after deleting item.
+
